@@ -68,7 +68,7 @@ window.PORTFOLIO_DATA = {
       cover: "./assets/works/direct/styles/cover.jpg",
       fallback: "画风集合拼图作为封面，命名为 cover.jpg",
       summary:
-        "用于展示 NAI / SD 画风收集、风格标签控制、色彩倾向和角色比例差异。",
+        "用于展示可控的画风收集、风格标签控制、色彩倾向和角色比例差异。",
       judgePoints: ["画风标签", "色彩倾向", "角色比例", "上色方式"],
       tags: ["直出", "画风", "集合"],
       samples: [],
@@ -80,8 +80,8 @@ window.PORTFOLIO_DATA = {
       title: "背景重构：从可用初稿到宣发完成度",
       before: "./assets/works/rebuild-01-before.jpg",
       after: "./assets/works/rebuild-01-after.jpg",
-      beforeFallback: "SD 初稿",
-      afterFallback: "Image2 / Banana2 重构后",
+      beforeFallback: "初稿",
+      afterFallback: "重构后",
       summary:
         "保留主体方向，重构背景空间、环境光和镜头层次，减少 AI 味和背景杂乱。",
       tags: ["背景", "光影", "空间"],
